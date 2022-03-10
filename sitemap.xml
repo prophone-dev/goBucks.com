@@ -115,4 +115,18 @@
         <priority>1.0</priority>
     </url>
 
+    <url>
+        <loc>https://goBucks.com/service-sick-service-bro</loc>
+        <lastmod>2022-03-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://goBucks.com/service-NEW-SERVICE-12</loc>
+        <lastmod>2022-03-10</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
 </urlset>
